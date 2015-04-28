@@ -1,0 +1,26 @@
+{
+  "name": "node-drone-input",
+  "description": "Node.js streaming video from AR.Drone",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "main": "lib/index",
+  "engines": {
+    "node": ">= 0.8.1"
+  },
+  "dependencies": {
+    "ar-drone": "*",
+    "fluent-ffmpeg": "*"
+  }
+}
